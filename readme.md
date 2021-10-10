@@ -1,4 +1,4 @@
-# Hands-on Machine Learning
+# Hands-on Machine Learning
 Code written while following "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron.
 
 ## Install
