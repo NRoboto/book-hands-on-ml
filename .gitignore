@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 datasets/
 .DS_STORE
+Chapter 3/Spam Classifier/easy_ham
+Chapter 3/Spam Classifier/pipeline_cache
+Chapter 3/Spam Classifier/spam
+Chapter 3/XY_train_shifts.pkl
